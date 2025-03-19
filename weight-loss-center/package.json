@@ -1,0 +1,19 @@
+{
+  "name": "weight-loss-center",
+  "version": "1.0.0",
+  "description": "Landing page example",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Frank Thoeny",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.21.2",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "sass": "^1.85.1"
+  }
+}
